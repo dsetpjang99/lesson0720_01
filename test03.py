@@ -18,4 +18,4 @@ for i in range(5):
 if x != y:
     print(f"正確答案為{x}")
 else:
-    print(f"共猜了{i}次")
+    print(f"共猜了{i+1}次")
